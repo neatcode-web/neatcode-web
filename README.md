@@ -1,4 +1,4 @@
-### Hi, I'm Jeff Lee 👋
+### Hi👋
 <br />
 
 A highly motivated, versatile, and skilled Fullstack developer, I have demonstrated expertise in web application
